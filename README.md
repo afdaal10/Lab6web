@@ -140,18 +140,6 @@ Contoh:
 ![Tampilan portfolio](tampilan_akhir_portfolio.png)
 
 
-## Kesimpulan ##
-
-Praktikum 6 ini memperkenalkan bagaimana Bootstrap membantu membuat web modern tanpa harus menulis banyak CSS manual.
-Dengan memanfaatkan komponen siap pakai dan grid system, pengembang dapat:
-
-- Membangun layout yang cepat, responsif, dan menarik.
-
-- Menjaga konsistensi antar halaman web.
-
-- Meningkatkan efisiensi waktu dalam proses pengembangan.
-
-Hasil akhirnya adalah website Afdhal Agislam Portfolio yang responsif, interaktif, dan berpenampilan profesional.
 
 ## Hasil Sreenshot ##
 
@@ -166,5 +154,39 @@ Hasil akhirnya adalah website Afdhal Agislam Portfolio yang responsif, interakti
 ## 2. Tampilan Awal Bootstrap ##
 
 ![Tampilan bootstrap](tampilan_awal.png)
+
+
+
+
+
+## 3. Tampilan Awal Portfolio ##
+
+![Tampilan Portfolio](tampilan_awal_portfolio.png)
+
+
+
+
+
+## 4. Tampilan Formulir Kontak ##
+
+![Tampilan form_kontak](form_kontak.png)
+
+
+## Kesimpulan ##
+
+Praktikum 6 ini memperkenalkan bagaimana Bootstrap membantu membuat web modern tanpa harus menulis banyak CSS manual.
+Dengan memanfaatkan komponen siap pakai dan grid system, pengembang dapat:
+
+- Membangun layout yang cepat, responsif, dan menarik.
+
+- Menjaga konsistensi antar halaman web.
+
+- Meningkatkan efisiensi waktu dalam proses pengembangan.
+
+Hasil akhirnya adalah website Afdhal Agislam Portfolio yang responsif, interaktif, dan berpenampilan profesional.
+
+
+
+
 
 
