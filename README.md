@@ -152,3 +152,19 @@ Dengan memanfaatkan komponen siap pakai dan grid system, pengembang dapat:
 - Meningkatkan efisiensi waktu dalam proses pengembangan.
 
 Hasil akhirnya adalah website Afdhal Agislam Portfolio yang responsif, interaktif, dan berpenampilan profesional.
+
+## Hasil Sreenshot ##
+
+## 1. Tampilan Vscode ##
+
+![Tampilan code](tampilan_vscode.png)
+
+
+
+
+
+## 2. Tampilan Awal Bootstrap ##
+
+![Tampilan bootstrap](tampilan_awal.png)
+
+
