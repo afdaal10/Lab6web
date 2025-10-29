@@ -77,3 +77,71 @@ Memperindah tampilan artikel utama dengan gambar ilustrasi `artikel.png`.
 
 ---
 
+
+---
+
+##  Konsep Dasar Bootstrap
+
+###  Sistem Grid Bootstrap
+Bootstrap menggunakan **Grid System 12 kolom** yang memudahkan pembagian layout.  
+Contoh:
+
+```html
+<div class="row">
+  <div class="col-md-8">Main Content</div>
+  <div class="col-md-4">Sidebar</div>
+</div>
+```
+**Grid ini otomatis menyesuaikan ukuran layar (responsive design).**
+
+## Komponen Bootstrap yang Digunakan ##
+| Komponen          | Fungsi                                                                     |
+| ----------------- | -------------------------------------------------------------------------- |
+| **Navbar**        | Navigasi utama di bagian atas halaman.                                     |
+| **Card**          | Menampilkan konten dalam kotak rapi dengan shadow.                         |
+| **Button**        | Tombol interaktif dengan berbagai warna tema.                              |
+| **Form**          | Input teks, email, select, dan textarea responsif.                         |
+| **Image Utility** | `img-fluid`, `rounded-circle`, `shadow-sm` untuk mengatur tampilan gambar. |
+
+## JavaScript (Interaktivitas) ##
+
+- Menggunakan FileReader() agar gambar yang diupload langsung tampil di halaman.
+- Menggunakan event addEventListener('submit') pada form untuk menampilkan alert konfirmasi.
+
+## Tampilan Akhir ##
+
+### Halaman Index ###
+- Artikel utama dengan gambar artikel.png
+
+- Tiga fitur dalam card (Heading 3 Kolom)
+
+- Formulir kontak (Refactor Praktikum 5)
+
+- Sidebar berisi profil Afdhal Agislam dan kategori
+
+![Tampilan Index](tampilan_akhir.png)
+
+
+
+## Halaman Portfolio ##
+- Foto profil bulat sempurna (afdal.png)
+
+- Biodata lengkap dan rapi
+
+- Fitur upload foto dengan JavaScript
+
+- Tiga card proyek (Portfolio Saya)
+
+
+## Kesimpulan ##
+
+Praktikum 6 ini memperkenalkan bagaimana Bootstrap membantu membuat web modern tanpa harus menulis banyak CSS manual.
+Dengan memanfaatkan komponen siap pakai dan grid system, pengembang dapat:
+
+- Membangun layout yang cepat, responsif, dan menarik.
+
+- Menjaga konsistensi antar halaman web.
+
+- Meningkatkan efisiensi waktu dalam proses pengembangan.
+
+Hasil akhirnya adalah website Afdhal Agislam Portfolio yang responsif, interaktif, dan berpenampilan profesional.
