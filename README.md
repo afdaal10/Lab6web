@@ -132,6 +132,8 @@ Contoh:
 
 - Tiga card proyek (Portfolio Saya)
 
+![Tampilan portfolio](tampilan_akhir_portfolio.png)
+
 
 ## Kesimpulan ##
 
