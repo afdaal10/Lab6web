@@ -82,6 +82,11 @@ Memperindah tampilan artikel utama dengan gambar ilustrasi `artikel.png`.
 
 ##  Konsep Dasar Bootstrap
 
+### Tampilan Awal Bootstrap
+
+![Tampilan bootstrap](tampilan_awal_bootsrap.png)
+
+
 ###  Sistem Grid Bootstrap
 Bootstrap menggunakan **Grid System 12 kolom** yang memudahkan pembagian layout.  
 Contoh:
